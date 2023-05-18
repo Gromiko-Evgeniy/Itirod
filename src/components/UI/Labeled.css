@@ -1,0 +1,12 @@
+.labeled {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    font-size: inherit;
+}
+
+input, select {
+    width: 40%;
+    font-size: inherit;
+}

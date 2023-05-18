@@ -1,0 +1,36 @@
+.dark {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    background-color: #111;
+    color: white;
+    border: solid black;
+    word-break: break-all;
+    hyphens: auto;
+}
+
+.light {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    background-color: white;
+    color: #111;
+    border: solid black;
+    word-break: break-all;
+    hyphens: auto;
+}
+
+.side_buttons {
+    border-left: solid black;
+    display: flex; flex-direction: column;
+    word-break: break-all
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 10px;
+}
